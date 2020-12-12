@@ -31,7 +31,7 @@ let shmups = {
     'director':  'Naozumi Yorichika',
     'releaseDate':  '07/15/1995'
   },
-  'dodondachi': {
+  'dodonpachi': {
     'developer':  'Cave',
     'director':  'Akira Wakabayashi',
     'releaseDate':  '02/05/1997'
