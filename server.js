@@ -39,6 +39,6 @@ app.get('/api/shmups/:shmupName',(request, response) =>{
     }
     response.json(shmups[shName])
 })
-app.listen(PORT, () =>{
+app.listen(process.env.PORT || PORT, () =>{
     console.log(`server running on port ${PORT}`)
 })
