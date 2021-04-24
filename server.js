@@ -23,7 +23,7 @@ let shmups = {
   },
   'Batsugun': {
     'developer':  'Topplan',
-    'director':  'Junya Inoue', 'Takeshi Kawamoto',
+    'director':  'Junya Inoue',
     'releaseDate':  '12/?/1993'
   },
   'Strikers 1945': {
@@ -33,7 +33,7 @@ let shmups = {
   },
   'DoDonPachi': {
     'developer':  'Cave',
-    'director':  'Akira Wakabayashi', 'Hiroyuki Tanaka', 'Junya Inoue', 'Naoki Ogiwara', 'Riichiro Nitta',
+    'director':  'Akira Wakabayashi',
     'releaseDate':  '02/05/1997'
   }
 }
