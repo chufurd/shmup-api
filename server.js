@@ -21,17 +21,17 @@ let shmups = {
     'director':  'unknown',
     'releaseDate':  'unknown'
   },
-  'Batsugun': {
+  'batsugun': {
     'developer':  'Topplan',
     'director':  'Junya Inoue',
     'releaseDate':  '12/?/1993'
   },
-  'Strikers 1945': {
+  'strikers 1945': {
     'developer':  'Psikyo',
     'director':  'Naozumi Yorichika',
     'releaseDate':  '07/15/1995'
   },
-  'DoDonPachi': {
+  'dodondachi': {
     'developer':  'Cave',
     'director':  'Akira Wakabayashi',
     'releaseDate':  '02/05/1997'
