@@ -20,6 +20,21 @@ let shmups = {
     'developer':  'unknown',
     'director':  'unknown',
     'releaseDate':  'unknown'
+  },
+  'Batsugun': {
+    'developer':  'Topplan',
+    'director':  'Junya Inoue', 'Takeshi Kawamoto',
+    'releaseDate':  '12/?/1993'
+  },
+  'Strikers 1945': {
+    'developer':  'Psikyo',
+    'director':  'Naozumi Yorichika',
+    'releaseDate':  '07/15/1995'
+  },
+  'DoDonPachi': {
+    'developer':  'Cave',
+    'director':  'Akira Wakabayashi', 'Hiroyuki Tanaka', 'Junya Inoue', 'Naoki Ogiwara', 'Riichiro Nitta',
+    'releaseDate':  '02/05/1997'
   }
 }
 let garegga = {
